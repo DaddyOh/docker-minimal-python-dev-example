@@ -1,0 +1,1 @@
+docker run -i -v $PWD/src:/app --name=url_info -t epalmer/url_info
