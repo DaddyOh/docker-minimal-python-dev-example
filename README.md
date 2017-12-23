@@ -21,7 +21,7 @@ tested Mac OSX.
 
 
 ## Cleaning Up Docker
-Because the image is given a name when you run it, it is necessary to do some cleanup when done.  Then rebuild and rerun the image when you want to rrun it again.
+Because the image is given a name when you run it, it is necessary to do some cleanup when done.  Then rebuild and rerun the image when you want to run it again.
 
 ```
 ./cleanup_docker.sh
